@@ -1,7 +1,7 @@
 export default function Header(){
     return(
         <header>
-            <h1><span aria-hidden="true">🌍</span> My travel Journal</h1>
+            <h1>仮名 : Vowels in japanese</h1>
         </header>
     );
 }
