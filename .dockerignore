@@ -1,0 +1,9 @@
+node_modules
+LICENSE
+.git
+.gitignore
+.dockerignore
+Dockerfile
+.dist
+.pnpm
+README.md
