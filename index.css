@@ -1,5 +1,9 @@
 html, body {
     margin: 0;
+<<<<<<< HEAD
+=======
+    font-family: Ubuntu, sans-serif;
+>>>>>>> dev
 }
 
 header{
@@ -13,4 +17,67 @@ header{
 img{
     border: 5px solid #252525;
     border-radius: 15px;
+<<<<<<< HEAD
+=======
+}
+
+.container{
+    padding-top: 3em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+article{
+    align-self: center;
+    margin-bottom: 3em;
+    width: 23em;
+    height: 50em;
+    text-align: center;
+}
+
+p{
+    font-size: large;
+    text-align: center;
+    height: 4em;
+    margin: 1.5em 0;
+    line-height: 1.8;
+    color: #252525;
+    padding: 1em;
+    background-color: #f1f1f1;
+    border-left: 4px solid #4a90e2;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+article h1 {
+    color: #252525;
+    font-size: 1.8em;
+    font-weight: 700;
+    margin: 0.5em 0;
+}
+
+a {
+    display: inline-block;
+    padding: 0.8em 1.5em;
+    background-color: #4a90e2;
+    color: #f4faf5;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+a:hover {
+    background-color: #357abd;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+a:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+>>>>>>> dev
 }
