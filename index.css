@@ -1,3 +1,16 @@
 html, body {
     margin: 0;
 }
+
+header{
+    background-color: #252525;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #f4faf5;
+}
+
+img{
+    border: 5px solid #252525;
+    border-radius: 15px;
+}
